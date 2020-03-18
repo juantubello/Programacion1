@@ -51,6 +51,7 @@ public class Main002 {
 
 	}
 
+	// Funcion para agregar atletas y tiempo
 	public static void ingresarAtleta(Atleta atleta, double tiempo){
 		atleta.setTiempo(tiempo);
 		atletas.add(atleta);
